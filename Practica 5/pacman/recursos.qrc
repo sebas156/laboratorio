@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>maze.jpg</file>
+        <file>pacman_personaje.png</file>
+        <file>Arcade - Pac-Man - General Sprites (1) (1).jpg</file>
+    </qresource>
+    <qresource prefix="/sonidos"/>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/">
+        <file>sounds/fondo.mp3</file>
+        <file>sounds/ganar.mp3</file>
+        <file>sounds/inicio.mp3</file>
+        <file>sounds/pacman_comiendo.mp3</file>
+        <file>sounds/comer.mp3</file>
+    </qresource>
+</RCC>

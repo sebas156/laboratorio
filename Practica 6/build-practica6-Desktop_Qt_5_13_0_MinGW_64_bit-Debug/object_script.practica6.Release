@@ -1,0 +1,11 @@
+release/cuerpo.o
+release/cuerpograf.o
+release/inicializarvalores.o
+release/main.o
+release/mainwindow.o
+release/numeroplanetas.o
+release/planet.o
+release/planet_grafic.o
+release/moc_inicializarvalores.o
+release/moc_mainwindow.o
+release/moc_numeroplanetas.o

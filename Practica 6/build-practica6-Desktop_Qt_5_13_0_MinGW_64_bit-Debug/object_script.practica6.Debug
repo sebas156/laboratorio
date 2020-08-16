@@ -1,0 +1,11 @@
+debug/cuerpo.o
+debug/cuerpograf.o
+debug/inicializarvalores.o
+debug/main.o
+debug/mainwindow.o
+debug/numeroplanetas.o
+debug/planet.o
+debug/planet_grafic.o
+debug/moc_inicializarvalores.o
+debug/moc_mainwindow.o
+debug/moc_numeroplanetas.o
